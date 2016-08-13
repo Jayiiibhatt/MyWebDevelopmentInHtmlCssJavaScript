@@ -1,0 +1,19 @@
+body{
+	background:#3c2508;
+}
+img{
+	width: 30%;
+	float: left;
+	border:1px solid #2a3e4c;
+	margin:1.5%;
+}
+h1{
+	color:#2a3e4c;
+	font-family: Arial;
+	text-transform: uppercase;
+	margin-left: 1.5%;
+	margin-top:2%;
+	border-bottom: 2px solid #2a3e4c;
+	width: 30%;
+	padding-bottom: 20px ;
+}
